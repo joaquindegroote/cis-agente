@@ -3,3 +3,5 @@ token.json
 __pycache__/
 *.pyc
 .emb_cache_*.pkl
+.env
+.env.local
